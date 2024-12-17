@@ -1,0 +1,41 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+} 
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 200;
+	font-style: normal;
+}
+
+/*Navbar CSS*/
+.nav-item {
+	font-family: "Roboto Slab", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	font-size: 20px;
+}
+
+#navTitle {
+	font-weight: 400;
+	font-style: bold;
+	font-size: 20px;
+}
+
+/*Landing CSS*/
+
+#landing h2 {
+	font-weight: 300;
+}
+
+#landing p {
+	font-weight: 300;
+	font-size: 20px;
+}
